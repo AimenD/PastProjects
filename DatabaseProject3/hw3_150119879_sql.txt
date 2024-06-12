@@ -1,0 +1,58 @@
+Q2
+
+
+UPDATE Player
+
+Set Age = FLOOR(DATEDIFF(DAY, Birthdate, '2014-01-01 00:00:00') / 365.25)
+ 
+ SELECT * from Player
+
+//////////////////////
+
+Q3
+
+SELECT  p.PlayerID, FirstName +' '+ LastName FULLNAME
+
+FROM Player p , PlayerTeam pt ,Team t 
+
+WHERE Age<(Select avg(Age) from Player) AND  t.TeamID = 1 AND p.PlayerID = pt.PlayerID 
+AND t.TeamID = pt.TeamID  AND Firstname not like '%nec%' 
+
+//////////////////////
+
+Q4
+
+
+Select (playas.City + '  #p'+ #g + '  #g'+ #p) City
+
+
+from (SELECT t.City, CONVERT(varchar(10),COUNT (*) ) as #p 
+		FROM PlayerTeam pt inner join Team t on pt.TeamID=t.TeamID
+		group by t.City) playas 
+  
+		inner join
+
+	  (SELECT t.City, CONVERT(varchar(10),sum (pgoals.NumOfGoals)) as #g
+		FROM (SELECT g.PlayerID , count (*) NumOfGoals
+		FROM Goals g 
+		group by g.PlayerID
+		) pgoals inner join PlayerTeam pt on 
+		pgoals.PlayerID= pt.PlayerID 
+		inner join Team t on t.TeamID = pt.TeamID
+		group by t.City) goalz
+	
+		on playas.City = goalz.City  
+
+///////////////////////
+
+
+Q5
+
+select FirstName,LastName,top10.NumOfGoals
+FROM (SELECT TOP 10 g.PlayerID , count (*) NumOfGoals
+FROM Goals g 
+group by g.PlayerID
+order by NumOfGoals DESC) top10 inner join Player p on 
+top10.PlayerID= p.PlayerID
+
+////////////////////////

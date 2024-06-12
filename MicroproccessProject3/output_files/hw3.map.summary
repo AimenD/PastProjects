@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Jan 21 19:34:15 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : VGA_Spaceship
+Top-level Entity Name : main
+Family : Cyclone IV E
+Total logic elements : 15,952
+    Total combinational functions : 8,825
+    Dedicated logic registers : 8,401
+Total registers : 8401
+Total pins : 10
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+
+    List<string> viewNames = new List<string>() {
+        "CameramanEmails",
+        "Cameramen",
+        "Cameras",
+        "ConcertVideos",
+        "ConferenceVideos",
+        "ConferenceVideoSpeakers",
+        "EventPhotoes",
+        "PhotoCameras",
+        "Photographers",
+        "Photos",
+        "StockPhotoes",
+        "VideoCameras",
+        "Videographers",
+        "Videos",
+        "WeddingPhotoes",
+        "WeddingVideos"
+    };
+}
+
+<div class="text-center">
+    <h1 class="display-4">Tables</h1>
+    
+    <ul>
+        @foreach (var item in viewNames)
+        {
+            <li>
+                <a asp-controller=@item asp-action="Index">@item</a>
+            </li>
+        }
+    </ul>
+</div>

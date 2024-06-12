@@ -1,0 +1,364 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PhotographyWeb
+build_property.RootNamespace = PhotographyWeb
+build_property.ProjectDir = C:\Users\hakan.DESKTOP-4U9IR80\source\repos\Photography\PhotographyWeb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hakan.DESKTOP-4U9IR80\source\repos\Photography\PhotographyWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/CameramanEmails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhbWFuRW1haWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/CameramanEmails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhbWFuRW1haWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/CameramanEmails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhbWFuRW1haWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/CameramanEmails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhbWFuRW1haWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/CameramanEmails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhbWFuRW1haWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Cameramen/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhbWVuXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Cameramen/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhbWVuXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Cameramen/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhbWVuXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Cameramen/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhbWVuXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Cameramen/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhbWVuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Cameras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Cameras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Cameras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Cameras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Cameras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtZXJhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConcertVideos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydFZpZGVvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConcertVideos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydFZpZGVvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConcertVideos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydFZpZGVvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConcertVideos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydFZpZGVvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConcertVideos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uY2VydFZpZGVvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConferenceVideoSpeakers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmVyZW5jZVZpZGVvU3BlYWtlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConferenceVideoSpeakers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmVyZW5jZVZpZGVvU3BlYWtlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConferenceVideoSpeakers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmVyZW5jZVZpZGVvU3BlYWtlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConferenceVideoSpeakers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmVyZW5jZVZpZGVvU3BlYWtlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConferenceVideoSpeakers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmVyZW5jZVZpZGVvU3BlYWtlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConferenceVideos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmVyZW5jZVZpZGVvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConferenceVideos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmVyZW5jZVZpZGVvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConferenceVideos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmVyZW5jZVZpZGVvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConferenceVideos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmVyZW5jZVZpZGVvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/ConferenceVideos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZmVyZW5jZVZpZGVvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/EventPhotoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRQaG90b2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/EventPhotoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRQaG90b2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/EventPhotoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRQaG90b2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/EventPhotoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRQaG90b2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/EventPhotoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRQaG90b2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/PhotoCameras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9DYW1lcmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/PhotoCameras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9DYW1lcmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/PhotoCameras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9DYW1lcmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/PhotoCameras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9DYW1lcmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/PhotoCameras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9DYW1lcmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Photographers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9ncmFwaGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Photographers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9ncmFwaGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Photographers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9ncmFwaGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Photographers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9ncmFwaGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Photographers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9ncmFwaGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Photos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Photos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Photos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Photos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Photos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvdG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/StockPhotoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tQaG90b2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/StockPhotoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tQaG90b2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/StockPhotoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tQaG90b2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/StockPhotoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tQaG90b2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/StockPhotoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tQaG90b2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/VideoCameras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9DYW1lcmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/VideoCameras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9DYW1lcmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/VideoCameras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9DYW1lcmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/VideoCameras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9DYW1lcmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/VideoCameras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9DYW1lcmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/VideoGraphers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9HcmFwaGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/VideoGraphers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9HcmFwaGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/VideoGraphers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9HcmFwaGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/VideoGraphers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9HcmFwaGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/VideoGraphers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9HcmFwaGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Videos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Videos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Videos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Videos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Videos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlkZW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/WeddingPhotoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VkZGluZ1Bob3RvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/WeddingPhotoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VkZGluZ1Bob3RvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/WeddingPhotoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VkZGluZ1Bob3RvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/WeddingPhotoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VkZGluZ1Bob3RvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/WeddingPhotoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VkZGluZ1Bob3RvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/WeddingVideos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VkZGluZ1ZpZGVvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/WeddingVideos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VkZGluZ1ZpZGVvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/WeddingVideos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VkZGluZ1ZpZGVvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/WeddingVideos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VkZGluZ1ZpZGVvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/WeddingVideos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VkZGluZ1ZpZGVvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hakan.DESKTOP-4U9IR80/source/repos/Photography/PhotographyWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-shochd1e1i
